@@ -2,5 +2,5 @@
 layout:  post
 ---
 
-#### Test 
-This is to confirm how the usrl for project stuff workrs
+#### Origins 
+There are couple ideas behind this idea

@@ -1,0 +1,21 @@
+--- 
+layout:  post
+---
+
+
+##### Some Next steps 
+
+I have the transistor modulator mostly working;
+Post outline idea
+- Theory of operation 
+- debugging behavior 
+- compare with board
+
+Some other things I want to do
+
+- Plan out component buys / finilize bom 
+ 
+ - Input filter, C1
+ - Output bulk C4
+ - Connector system -> Thinking Minifit jr or micofit, something I can get "universal" crimper to work with; Cheap is good too. 
+ - Inductor
