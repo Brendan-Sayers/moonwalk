@@ -9,9 +9,9 @@ navbar_entries:
     url: https://www.linkedin.com/in/brendan-s-477abb116/
 
 project_entries:
-  - title: Project 1
-    url: project-test
-    desc: This is an example project, configured in _data/home.yml
+  - title: HP1722A
+    url: hp-1722-oscilloscope
+    desc: A funny thing happened when I went to buy an old 'scope...   #This is an example project, configured in _data/home.yml
     highlight: WIP
 
 
@@ -25,8 +25,6 @@ old_project_entries:
     highlight: NEW
 
 footer_entries:
- 
-
 
   - title: github
     url: https://github.com/Brendan-Sayers
